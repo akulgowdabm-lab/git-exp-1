@@ -1,0 +1,4 @@
+This is my first Git branch.
+
+I am working inside experiment-branch.
+These changes are separate from the main branch.
