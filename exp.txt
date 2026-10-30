@@ -2,3 +2,6 @@ My First Git Experiment
 
 I am learning Git and GitHub.
 This is my first file.
+
+I have successfully connected GitHub with VS Code.
+I am learning file modification using Git.
